@@ -1,0 +1,62 @@
+version: '3.8'
+
+services:
+  desktop:
+    image: ghcr.io/matsuolab/virtual_desktop:latest
+    runtime: nvidia  # if you have NVIDIA GPU
+    container_name: lego_desktop
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+      - NVIDIA_DRIVER_CAPABILITIES=all
+      - DISPLAY=:12  # or let it auto-assign
+    ports:
+      - "6080:6080"  # or use ${WEB_PORT}:6080 with .env
+    volumes:
+      - "/tmp/.X11-unix:/tmp/.X11-unix:rw"
+    security_opt:
+      - seccomp:unconfined
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+
+  lego_release:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: lego_release:latest
+    container_name: lego_release-jeremy
+    depends_on:
+      - desktop
+    runtime: nvidia
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+      - NVIDIA_DRIVER_CAPABILITIES=all
+      - CUDA_VISIBLE_DEVICES=0
+      - DISPLAY=:12  # Match desktop's display
+      - PYTHONPATH=/workspace
+      - OMP_NUM_THREADS=1
+    volumes:
+      # Mount data directory (adjust paths as needed)
+      - ./data:/workspace/data
+      # Mount results directory to persist outputs
+      - ./results:/workspace/results
+      # Optional: mount checkpoints if you have them
+      - ./checkpoints:/workspace/checkpoints
+      # Mount external storage drive (if you have data there)
+      # Uncomment the lines below to use /storage:
+      # - /storage/data:/workspace/data_external
+      # - /storage/checkpoints:/workspace/checkpoints_external
+      # Mount X11 socket for GUI support
+      - "/tmp/.X11-unix:/tmp/.X11-unix:rw"
+      # Mount project code
+      - "./:/workspace"
+    working_dir: /workspace
+    stdin_open: true
+    tty: true
+    # Uncomment to run a specific command
+    # command: bash scripts/eval/eval_all.sh
+

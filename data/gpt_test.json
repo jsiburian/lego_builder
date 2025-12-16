@@ -1,0 +1,239 @@
+{
+    "grid_size": [65, 65, 65],
+    "operations": {
+      "0": {
+        "view_direction": [225, 30],
+        "bricks": [
+          {
+            "brick_type": "3001",
+            "color": [160, 110, 185],
+            "op_type": 2,
+            "brick_transform": {
+              "position": [0.0, 0, 0.5],
+              "rotation": [0.7071067811865476, 0.0, -0.7071067811865475, 0.0],
+              "rotation_euler": [0, -90, 0],
+              "keypoint_brick": [256, 309, 0]
+            },
+            "mask": {
+              "size": [512, 512],
+              "counts": "nYV3j0V?0O2O0O2O0O2O0O2O0O2N1O2O001N101O0O2O0O2O0O2O0O2O0O2O0O2N1O2O001O0O2O0O010O010O010O010O001O0100O010O10O010O010O010O010O010O001O0100O010O100O100O2O0O2O0O2O1N101N101N101N101N101N100O2O0O2O1N101N101N101N101N10dfU3"
+            },
+            "bbox": [[204, 284], [307, 360]],
+            "mask_pixel_count": 5070
+          }
+        ],
+        "obj_rotation_quat": [1, 0, 0, 0],
+        "camera": {
+          "T": [-0.0, -6.103515625e-05, 2000.0],
+          "R": [0.8923991201574475, 0.2391176122052102, 0.3696437716022626, -0.09904574696142426]
+        }
+      },
+      "1": {
+        "view_direction": [225, 30],
+        "bricks": [
+          {
+            "brick_type": "3003",
+            "color": [255, 158, 205],
+            "op_type": 0,
+            "brick_transform": {
+              "position": [0.0, 3.0, -0.5],
+              "rotation": [0.7071067811865476, 0.0, -0.7071067811865475, 0.0],
+              "rotation_euler": [0, -90, 0],
+              "keypoint_brick": [238, 292, 0]
+            },
+            "mask": {
+              "size": [512, 512],
+              "counts": "UYV3i0V?2O0O2O0O2O0O2O0O2O0N3O0O2O001O0O2O0O2O0O2O0O2O0O2O0O2N1O2O001N101O000000O2O0O101N2O1N101N101N101N101N101N100O101N2O1N101N101N101N101N101Nlff3"
+            },
+            "bbox": [[204, 276], [273, 334]],
+            "mask_pixel_count": 2989
+          }
+        ],
+        "obj_rotation_quat": [1, 0, 0, 0],
+        "camera": {
+          "T": [-0.0, -6.103515625e-05, 2000.0],
+          "R": [0.8923991201574475, 0.2391176122052102, 0.3696437716022626, -0.09904574696142426]
+        }
+      },
+      "2": {
+        "view_direction": [225, 30],
+        "bricks": [
+          {
+            "brick_type": "3003",
+            "color": [211, 53, 157],
+            "op_type": 0,
+            "brick_transform": {
+              "position": [0.0, 6.0, -0.5],
+              "rotation": [0.7071067811865476, 0.0, -0.7071067811865475, 0.0],
+              "rotation_euler": [0, -90, 0],
+              "keypoint_brick": [238, 266, 0]
+            },
+            "mask": {
+              "size": [512, 512],
+              "counts": "[XV3j0W?O010O010O010O010O010O010O010O010O010O010O010O010O010O010O010O010O01O00O010O010O010O010O010O010O010O010O010O010O010O010O010O010O010O010O01egf3"
+            },
+            "bbox": [[204, 267], [273, 309]],
+            "mask_pixel_count": 1786
+          },
+          {
+            "brick_type": "3003",
+            "color": [255, 158, 205],
+            "op_type": 0,
+            "brick_transform": {
+              "position": [0.0, 9.0, -0.5],
+              "rotation": [0.7071067811865476, 0.0, -0.7071067811865475, 0.0],
+              "rotation_euler": [0, -90, 0],
+              "keypoint_brick": [238, 241, 0]
+            },
+            "mask": {
+              "size": [512, 512],
+              "counts": "aWV3j0V?1N101N101N101N101N1O2O0O2O001N101N101N101N101N101N101N1O2O0O2O001N1001O0O101N101N2O0O2O0O2O0O2O0O2O0O2O0O2O0O101N101N2O0O2O0O2O0O2O0O2O0O`hf3"
+            },
+            "bbox": [[204, 224], [273, 283]],
+            "mask_pixel_count": 3018
+          }
+        ],
+        "obj_rotation_quat": [1, 0, 0, 0],
+        "camera": {
+          "T": [-0.0, -6.103515625e-05, 2000.0],
+          "R": [0.8923991201574475, 0.2391176122052102, 0.3696437716022626, -0.09904574696142426]
+        }
+      },
+      "3": {
+        "view_direction": [225, 30],
+        "bricks": [
+          {
+            "brick_type": "3039",
+            "color": [252, 172, 0],
+            "op_type": 0,
+            "brick_transform": {
+              "position": [0.0, 12.0, -1.5],
+              "rotation": [1.1102230246251565e-16, 0.0, -0.9999999999999999, 0.0],
+              "rotation_euler": [180, 0, 180],
+              "keypoint_brick": [221, 224, 0]
+            },
+            "mask": {
+              "size": [512, 512],
+              "counts": "egm26h?2N3N1N3M2N3N1N3M2O2M2N3M2O2M2N3N1O2O0O2O0O2O0O2O0O2O0O2N101N101O0O20N100O2O0O2O1N101N101N101N101N101N101N100O2O0O2O1N101N101N101N101N10Pio3"
+            },
+            "bbox": [[187, 207], [255, 267]],
+            "mask_pixel_count": 2808
+          },
+          {
+            "brick_type": "87087",
+            "color": [211, 53, 157],
+            "op_type": 0,
+            "brick_transform": {
+              "position": [-0.5, 12.0, 0.0],
+              "rotation": [0.7071067811865476, 0.0, -0.7071067811865475, 0.0],
+              "rotation_euler": [0, -90, 0],
+              "keypoint_brick": [256, 215, 0]
+            },
+            "mask": {
+              "size": [512, 512],
+              "counts": "hVi31o?1K4O2O1N1O2N101O0O2O001O00h0YOO0O101N2O0O2O0O2O0O2O0O2O0O2OYig3"
+            },
+            "bbox": [[242, 207], [271, 247]],
+            "mask_pixel_count": 692
+          },
+          {
+            "brick_type": "87087",
+            "color": [211, 53, 157],
+            "op_type": 0,
+            "brick_transform": {
+              "position": [0.5, 12.0, 0.0],
+              "rotation": [0.7071067811865475, 0.0, 0.7071067811865476, 0.0],
+              "rotation_euler": [0, 90, 0],
+              "keypoint_brick": [238, 207, 0]
+            },
+            "mask": {
+              "size": [512, 512],
+              "counts": "_f`32n?0O2O1N101N101N1O2N101O001N101O00O2O0L4O2O1N1O2N101O0O2O00bYP4"
+            },
+            "bbox": [[225, 200], [254, 216]],
+            "mask_pixel_count": 260
+          }
+        ],
+        "obj_rotation_quat": [1, 0, 0, 0],
+        "camera": {
+          "T": [-0.0, -6.103515625e-05, 2000.0],
+          "R": [0.8923991201574475, 0.2391176122052102, 0.3696437716022626, -0.09904574696142426]
+        }
+      },
+      "4": {
+        "view_direction": [225, 30],
+        "bricks": [
+          {
+            "brick_type": "3003",
+            "color": [255, 158, 205],
+            "op_type": 0,
+            "brick_transform": {
+              "position": [0.0, 15.0, -0.5],
+              "rotation": [0.7071067811865476, 0.0, -0.7071067811865475, 0.0],
+              "rotation_euler": [0, -90, 0],
+              "keypoint_brick": [238, 190, 0]
+            },
+            "mask": {
+              "size": [512, 512],
+              "counts": "nUV3j0V?1N101N101N101N101N1O2O0O2O001N101N101N101N101N101N101N1O2O0O2O001N1001O0O101N101N2O0O2O0O2O0O2O0O2O0O2O0O2O0O101N101N2O0O2O0O2O0O2O0O2O0OSjf3"
+            },
+            "bbox": [[204, 173], [273, 232]],
+            "mask_pixel_count": 3018
+          },
+          {
+            "brick_type": "3039",
+            "color": [144, 31, 118],
+            "op_type": 0,
+            "brick_transform": {
+              "position": [0.0, 3.0, 2.5],
+              "rotation": [1.1102230246251565e-16, 0.0, -0.9999999999999999, 0.0],
+              "rotation_euler": [180, 0, 180],
+              "keypoint_brick": [290, 266, 0]
+            },
+            "mask": {
+              "size": [512, 512],
+              "counts": "RXY4[1d>2O0O101N101N2O0O2N1O2O001N101O0O11O0O101N101N2O0O2O0O2O0O2O0O2O0O2O0O2O0O101N101N2O0O2O0O2O0O2O0O2O0Oggl2"
+            },
+            "bbox": [[274, 249], [325, 308]],
+            "mask_pixel_count": 2386
+          }
+        ],
+        "obj_rotation_quat": [1, 0, 0, 0],
+        "camera": {
+          "T": [-0.0, -6.103515625e-05, 2000.0],
+          "R": [0.8923991201574475, 0.2391176122052102, 0.3696437716022626, -0.09904574696142426]
+        }
+      },
+  
+      "5": {
+        "view_direction": [225, 30],
+        "bricks": [
+          {
+            "brick_type": "3039",
+            "color": [144, 31, 118],
+            "op_type": 0,
+            "brick_transform": {
+              "position": [0.0, 9.0, 1.5],
+              "rotation": [1.1102230246251565e-16, 0.0, -0.9999999999999999, 0.0],
+              "rotation_euler": [180, 0, 180],
+              "keypoint_brick": [238, 255, 0]
+            },
+            "mask": {
+              "size": [512, 512],
+              "counts": "RXY4[1d>2O0O101N101N2O0O2N1O2O001N101O0O11O0O101N101N2O0O2O0O2O0O2O0O2O0O2O0O2O0O101N101N2O0O2O0O2O0O2O0O2O0Oggl2"
+            },
+            "bbox": [[250, 230], [300, 275]],
+            "mask_pixel_count": 2386
+          }
+        ],
+        "obj_rotation_quat": [1, 0, 0, 0],
+        "camera": {
+          "T": [-0.0, -6.103515625e-05, 2000.0],
+          "R": [0.8923991201574475, 0.2391176122052102, 0.3696437716022626, -0.09904574696142426]
+        }
+      }
+    },
+    "obj_scale": 2,
+    "obj_center": [0.0, 74.0, 10.0]
+  }
+  

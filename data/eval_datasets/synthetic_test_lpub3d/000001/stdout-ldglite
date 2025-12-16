@@ -1,0 +1,45 @@
+
+LDGLite Version 1.3.6.0 (64bit)      
+====================
+Arguments = C:\Program Files\LPub3D\3rdParty\ldglite-1.3\bin\ldglite.exe -ca0.01 -cg0,0,115935 -j -v511,511 -o0,-85 -W1 -fss6 -l3 -i2 -fh -q -2g,2x -mFD:\lpub3d_render\subm_only_0928_test\000001\LPub3D\assem\model-2_1_0_0_0_1_0_0_0_1_19_511_150_DPI_10.775_30_40_313.png D:\lpub3d_render\subm_only_0928_test\000001\LPub3D\tmp\csi.ldr 
+FOV = 0.01
+FROM = (0, 0, 115935)
+Parser = L3
+Downsample = Yes
+Upscale factor = (2)
+LDraw LDConfig = C:\Users\Rel\Documents\ldraw_related\ldraw\LDConfig.ldr
+Znear, Zfar = 228870, 234870
+CAM = (0, 0, 231870)
+Rendering OffScreen
+
+OpenGL Driver Info
+====================
+GL_VENDOR = Microsoft Corporation
+GL_VERSION = 1.1.0
+GL_RENDERER = GDI Generic
+
+OpenGL Extensions
+====================
+Number of OpenGL Extensions = 2
+GL_WIN_swap_hint
+GL_EXT_bgra
+GL_EXT_paletted_texture
+
+OpenGL Bits
+====================
+GL_RGBA_BITS (R,G,B,A) = (8, 8, 8, 8)
+GL_DEPTH_BITS = 32
+GL_STENCIL_BITS = 8
+
+OpenGL Buffer Status
+====================
+Buffer Swap Mode = 2
+
+LDGLite Processing
+====================
+NOTABENE "4073.dat" referenced by "submodel_0.ldr": Moved to 6141
+DrawScene
+
+LDGLite Output
+====================
+Write PNG D:\lpub3d_render\subm_only_0928_test\000001\LPub3D\assem\model-2_1_0_0_0_1_0_0_0_1_19_511_150_DPI_10.775_30_40_313.png

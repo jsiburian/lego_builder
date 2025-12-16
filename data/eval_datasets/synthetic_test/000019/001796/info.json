@@ -1,0 +1,4051 @@
+{
+    "operations": {
+        "0": {
+            "bricks": [
+                {
+                    "brick_type": "3030",
+                    "canonical_position": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "canonical_rotation": [
+                        6.123233995736765e-17,
+                        -0.0,
+                        1.0,
+                        -0.0
+                    ],
+                    "op_type": 2,
+                    "color": [
+                        136,
+                        44,
+                        254
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "rotation": [
+                            6.123233995736764e-17,
+                            -0.0,
+                            1.0,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            180,
+                            0,
+                            180
+                        ]
+                    }
+                }
+            ],
+            "view_direction": [
+                218,
+                33
+            ],
+            "obj_rotation_quat": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "1": {
+            "bricks": [
+                {
+                    "brick_type": "3024",
+                    "canonical_position": [
+                        -0.5,
+                        1.0,
+                        0.5
+                    ],
+                    "canonical_rotation": [
+                        6.123233995736764e-17,
+                        -0.0,
+                        1.0,
+                        -0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "oZP4a0_?0O2O0O2O000O2O0O2O1O1N2O0O2O001N2O0O2N1O2N101N2O0O2O001O001O00O10O10O011N2O000O2O0O2O001N2O1N101N2N1O2N101N101O1N101O001O001O1N101OnTn2"
+                    },
+                    "bbox": [
+                        [
+                            256,
+                            336
+                        ],
+                        [
+                            322,
+                            384
+                        ]
+                    ],
+                    "color": [
+                        229,
+                        195,
+                        250
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -0.5,
+                            1.0,
+                            0.5
+                        ],
+                        "rotation": [
+                            6.123233995736762e-17,
+                            -0.0,
+                            1.0,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            180,
+                            0,
+                            180
+                        ]
+                    }
+                }
+            ],
+            "view_direction": [
+                230,
+                29
+            ],
+            "obj_rotation_quat": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "2": {
+            "bricks": [
+                {
+                    "canonical_state": {
+                        "cls": "CBrick",
+                        "bricks_pc": {
+                            "operations": {
+                                "0": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "3005",
+                                            "canonical_position": [
+                                                0.0,
+                                                0.0,
+                                                0.0
+                                            ],
+                                            "canonical_rotation": [
+                                                1.0,
+                                                0.0,
+                                                0.0,
+                                                0.0
+                                            ],
+                                            "op_type": 2
+                                        }
+                                    ]
+                                },
+                                "1": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "3062b",
+                                            "canonical_position": [
+                                                0.0,
+                                                3.0,
+                                                0.0
+                                            ],
+                                            "canonical_rotation": [
+                                                6.123233995736766e-17,
+                                                0.0,
+                                                1.0,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                },
+                                "2": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "3005",
+                                            "canonical_position": [
+                                                0.0,
+                                                6.0,
+                                                0.0
+                                            ],
+                                            "canonical_rotation": [
+                                                -0.7071067811865475,
+                                                0.0,
+                                                0.7071067811865476,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                },
+                                "3": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "2420",
+                                            "canonical_position": [
+                                                0.0,
+                                                9.0,
+                                                0.0
+                                            ],
+                                            "canonical_rotation": [
+                                                6.123233995736766e-17,
+                                                0.0,
+                                                1.0,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "grid_size": [
+                                65,
+                                65,
+                                65
+                            ]
+                        },
+                        "position": [
+                            4.5,
+                            1.0,
+                            -0.5
+                        ],
+                        "rotation": [
+                            0.7071067811865476,
+                            0.0,
+                            0.7071067811865475,
+                            0.0
+                        ]
+                    },
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "RdR1R2a1oMj:S2UEmMk:S2TEoMj:S2UEmMk:T2SEnMl:R2TEnMk:T2TElMl:T2SEnMk:T2TElMl:W3PDkLn;Z3nChLP<d301N101N101O1N1O2N1O2O0O2O1N101O001N2Oa1_N00O100O01000O010O0100O0100O0100O0100O001O00100O0TNTFfMj9X1[GgNe8X1\\GgNd8Z1]GeNb8[1_GeNa8[1`GdN`8\\1`GdN_8\\1cGcN]8]1dGbN\\8]1eGbN\\8^1eGaN[8k0g3aN_B?a=A_B>a=B`B>`=BaB<`=D`B<`=CbB;_=EaB;`=CbB<^=DbB;`=DaB;_=DcB:^=FcB9^=EcB;]=EdB9^=EdB:]=EcB:_=EbB:_=DbB<^=DcB:_=CcB=^=AdB=]=CdB<]=BdB>\\=BeB<]=BdB>\\=BeB<]=CdB<]=BdB>\\=BeB<]=C`101O001O[lZ5"
+                    },
+                    "bbox": [
+                        [
+                            69,
+                            101
+                        ],
+                        [
+                            169,
+                            311
+                        ]
+                    ],
+                    "color": [
+                        [
+                            97,
+                            92,
+                            175
+                        ],
+                        [
+                            242,
+                            208,
+                            247
+                        ],
+                        [
+                            171,
+                            56,
+                            183
+                        ],
+                        [
+                            6,
+                            6,
+                            121
+                        ]
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            4.5,
+                            1.0,
+                            -0.5
+                        ],
+                        "rotation": [
+                            0.7071067811865475,
+                            -0.0,
+                            0.7071067811865475,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            90,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "brick_type": "3005",
+                    "canonical_position": [
+                        4.5,
+                        1.0,
+                        -1.5
+                    ],
+                    "canonical_rotation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "Th`0b1]>2O0O2O001N101N2O001N101N101O1N101N1O2N2N101N101N101O1O001O0O010000O011N101O0O2O0O101N101O2M101N101M2O2O1N101N101O001O1O0O2O001O1OiW^6"
+                    },
+                    "bbox": [
+                        [
+                            33,
+                            245
+                        ],
+                        [
+                            98,
+                            326
+                        ]
+                    ],
+                    "color": [
+                        43,
+                        10,
+                        40
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            4.5,
+                            1.0,
+                            -1.5
+                        ],
+                        "rotation": [
+                            1.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "canonical_state": {
+                        "cls": "CBrick",
+                        "bricks_pc": {
+                            "operations": {
+                                "0": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "3005",
+                                            "canonical_position": [
+                                                0.0,
+                                                0.0,
+                                                0.0
+                                            ],
+                                            "canonical_rotation": [
+                                                1.0,
+                                                0.0,
+                                                0.0,
+                                                0.0
+                                            ],
+                                            "op_type": 2
+                                        }
+                                    ]
+                                },
+                                "1": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "3062b",
+                                            "canonical_position": [
+                                                0.0,
+                                                3.0,
+                                                0.0
+                                            ],
+                                            "canonical_rotation": [
+                                                6.123233995736766e-17,
+                                                0.0,
+                                                1.0,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                },
+                                "2": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "3005",
+                                            "canonical_position": [
+                                                0.0,
+                                                6.0,
+                                                0.0
+                                            ],
+                                            "canonical_rotation": [
+                                                -0.7071067811865475,
+                                                0.0,
+                                                0.7071067811865476,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                },
+                                "3": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "2420",
+                                            "canonical_position": [
+                                                0.0,
+                                                9.0,
+                                                0.0
+                                            ],
+                                            "canonical_rotation": [
+                                                6.123233995736766e-17,
+                                                0.0,
+                                                1.0,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "grid_size": [
+                                65,
+                                65,
+                                65
+                            ]
+                        },
+                        "position": [
+                            3.5,
+                            1.0,
+                            1.5
+                        ],
+                        "rotation": [
+                            -0.7071067811865475,
+                            0.0,
+                            0.7071067811865476,
+                            0.0
+                        ]
+                    },
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "TTT22n?0O101O0QOMPB5o=KQB5n=MPB5o=KQB5o=LPB5n=LQB6n=JRB7l=KRB6n=JRB7m=JQB8m=JRB6n=KQB6m=LQB5o=KQB6n=KoA7P>KnA7Q>IoA8o=JoA7Q>IoA8o=JoA7P>JPB7n=KQB6m=LQB5o=KQB6m=LRBe0]=[OcBd0^=]OaBc0^=^ObBa0_=@`B`0`=P10c0oCaN[8`1dGaN[8_1eGaN[8`1cGbN[8_1eGaN[8`1cGaN]8`1bGaN^8^1aGcN_8^1`GcN`8\\1`GeN_8`2[FaMe9a2YF`Mg9]4O10O10O010000O010O010O01000O010O010O1O001N101N101O1N100O2O000O2O1N2O1O0O2O0O2M3O0O2N1TN`EXNa:e1aE[N`:a0dF^O\\9a0fF]O\\9b0dF^O\\9a0fF^O[9a0eF_O[9a0fF^O[9`0fF@[9?fF@Z9?hF_OZ9`0fF@aUY4"
+                    },
+                    "bbox": [
+                        [
+                            136,
+                            86
+                        ],
+                        [
+                            237,
+                            299
+                        ]
+                    ],
+                    "color": [
+                        [
+                            226,
+                            89,
+                            83
+                        ],
+                        [
+                            143,
+                            123,
+                            200
+                        ],
+                        [
+                            12,
+                            6,
+                            61
+                        ],
+                        [
+                            75,
+                            128,
+                            74
+                        ]
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            3.5,
+                            1.0,
+                            1.5
+                        ],
+                        "rotation": [
+                            0.7071067811865474,
+                            0.0,
+                            -0.7071067811865477,
+                            0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            -90,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "brick_type": "4073",
+                    "canonical_position": [
+                        -4.5,
+                        1.0,
+                        -0.5
+                    ],
+                    "canonical_rotation": [
+                        0.7071067811865474,
+                        0.0,
+                        -0.7071067811865477,
+                        0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "dm_58f?5K3N2O1N7J1N2N2O1N1O2N1O101N1000000O2O00000000000001O000O10001O0O2O1O0O3N1N1O101M3I7N101M4L_bh1"
+                    },
+                    "bbox": [
+                        [
+                            351,
+                            422
+                        ],
+                        [
+                            397,
+                            462
+                        ]
+                    ],
+                    "color": [
+                        153,
+                        48,
+                        232
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -4.5,
+                            1.0,
+                            -0.5
+                        ],
+                        "rotation": [
+                            0.7071067811865474,
+                            0.0,
+                            -0.7071067811865477,
+                            0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            -90,
+                            0
+                        ]
+                    }
+                }
+            ],
+            "view_direction": [
+                230,
+                29
+            ],
+            "obj_rotation_quat": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "3": {
+            "bricks": [
+                {
+                    "brick_type": "3062b",
+                    "canonical_position": [
+                        3.5,
+                        1.0,
+                        -1.5
+                    ],
+                    "canonical_rotation": [
+                        0.7071067811865474,
+                        0.0,
+                        -0.7071067811865477,
+                        0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "dhT1]1b>2M3O1N5L4K1O2O1N2N1O1O2O0O2O000O100000001OO1000000000001O0eN[1O2M201N2N102M2O0O1O2N2N2N101O4KZgS6"
+                    },
+                    "bbox": [
+                        [
+                            73,
+                            264
+                        ],
+                        [
+                            119,
+                            337
+                        ]
+                    ],
+                    "color": [
+                        8,
+                        215,
+                        99
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            3.5,
+                            1.0,
+                            -1.5
+                        ],
+                        "rotation": [
+                            0.7071067811865474,
+                            0.0,
+                            -0.7071067811865477,
+                            0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            -90,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "brick_type": "3021",
+                    "canonical_position": [
+                        -2.5,
+                        1.0,
+                        0.0
+                    ],
+                    "canonical_rotation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "o[m3a0_?001N101N100O2O001N2O1N2O001N2O0O2O001M2O2O1N1O2O001N101O1O001O001N10001N101N101O1N2O1N101O0O2O1N101O0O2O0O2O1N1O2N1O2O1N101O001N10001O001O1N101O1000O01O010O001000O100O0100O0100O010O001O1N101N101N101O1BfBSN[=k1jBRNW=k1`0O2O0O2O0O1O2O0O2N2N2N2O0O2O001O1N101O001O001O1O010O001O00100O0100O002O0O01O01000O1N2O0O2M201N101N2O001O0O2O001O1O001N10Zc`1"
+                    },
+                    "bbox": [
+                        [
+                            250,
+                            354
+                        ],
+                        [
+                            413,
+                            451
+                        ]
+                    ],
+                    "color": [
+                        163,
+                        89,
+                        16
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -2.5,
+                            1.0,
+                            0.0
+                        ],
+                        "rotation": [
+                            1.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "brick_type": "3062b",
+                    "canonical_position": [
+                        2.5,
+                        1.0,
+                        -1.5
+                    ],
+                    "canonical_rotation": [
+                        0.7071067811865475,
+                        -0.0,
+                        0.7071067811865475,
+                        -0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "Vic1[1d>4K201N2N8I1N101N2N1O2N1O2O000O10001O00000O10000001O0000000O2O000O2O1O1N3N0O101N1N3I7N2O1M5Kjfd5"
+                    },
+                    "bbox": [
+                        [
+                            103,
+                            281
+                        ],
+                        [
+                            149,
+                            354
+                        ]
+                    ],
+                    "color": [
+                        0,
+                        80,
+                        165
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            2.5,
+                            1.0,
+                            -1.5
+                        ],
+                        "rotation": [
+                            0.7071067811865475,
+                            -0.0,
+                            0.7071067811865475,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            90,
+                            0
+                        ]
+                    }
+                }
+            ],
+            "view_direction": [
+                230,
+                29
+            ],
+            "obj_rotation_quat": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "4": {
+            "bricks": [
+                {
+                    "brick_type": "3623",
+                    "canonical_position": [
+                        -1.5,
+                        1.0,
+                        1.5
+                    ],
+                    "canonical_rotation": [
+                        6.123233995736764e-17,
+                        -0.0,
+                        1.0,
+                        -0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "`jb41o?1N100O2O001N101N2O1O0O2O1N101N101O0N3N2O0O2N101O1O0O2O001O001O1O0O101O01O0100O1O10O010O10000O010O01000O010O010O01000O010O010O010O1O010O01O100O10O010O10000O010O010O01000O010O010O01000O010O00100O01O010O100O10O010O1O1O001M3N101N1O2O1O001N101O001O1O001N[T^1"
+                    },
+                    "bbox": [
+                        [
+                            293,
+                            322
+                        ],
+                        [
+                            418,
+                            397
+                        ]
+                    ],
+                    "color": [
+                        213,
+                        170,
+                        15
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -1.5,
+                            1.0,
+                            1.5
+                        ],
+                        "rotation": [
+                            6.123233995736762e-17,
+                            -0.0,
+                            1.0,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            180,
+                            0,
+                            180
+                        ]
+                    }
+                },
+                {
+                    "brick_type": "3024",
+                    "canonical_position": [
+                        -0.5,
+                        1.0,
+                        -0.5
+                    ],
+                    "canonical_rotation": [
+                        6.123233995736764e-17,
+                        -0.0,
+                        1.0,
+                        -0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "^[^3a0^?101N10001N100O2O1O1N2O0O2O1O0O2O0O2O0N3N2O0O2O0O2O1O001N10@`00000O10O0101N101O0O101N101O1N2O1N101O0N3N101N2N101O0O2O1O001O001O0O2O`d`3"
+                    },
+                    "bbox": [
+                        [
+                            220,
+                            351
+                        ],
+                        [
+                            285,
+                            398
+                        ]
+                    ],
+                    "color": [
+                        22,
+                        159,
+                        94
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -0.5,
+                            1.0,
+                            -0.5
+                        ],
+                        "rotation": [
+                            6.123233995736762e-17,
+                            -0.0,
+                            1.0,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            180,
+                            0,
+                            180
+                        ]
+                    }
+                }
+            ],
+            "view_direction": [
+                230,
+                29
+            ],
+            "obj_rotation_quat": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "5": {
+            "bricks": [
+                {
+                    "brick_type": "4073",
+                    "canonical_position": [
+                        -3.5,
+                        1.0,
+                        1.5
+                    ],
+                    "canonical_rotation": [
+                        0.7071067811865474,
+                        0.0,
+                        -0.7071067811865477,
+                        0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "UlT65i?3M3O1N1O2O0O2O0O2N2N1O2N101O0O2O1O001O0O1000O100O2O000O100O2O000O2O1N2O1O1N101N1N3O1N2O0O4MkcS1"
+                    },
+                    "bbox": [
+                        [
+                            393,
+                            375
+                        ],
+                        [
+                            439,
+                            405
+                        ]
+                    ],
+                    "color": [
+                        149,
+                        229,
+                        176
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -3.5,
+                            1.0,
+                            1.5
+                        ],
+                        "rotation": [
+                            0.7071067811865474,
+                            0.0,
+                            -0.7071067811865477,
+                            0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            -90,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "brick_type": "3023",
+                    "canonical_position": [
+                        -4.5,
+                        1.0,
+                        1.0
+                    ],
+                    "canonical_rotation": [
+                        0.7071067811865474,
+                        0.0,
+                        -0.7071067811865477,
+                        0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "U]m52m?10000O101N101N2O002M2O0O101O1N2O0O2QA^O]>e0_A]O`>S1N101N2O001N101O001O00O10O10O10O010O10O010O10O10O010O10O10O010O10O10O01N110O10O010O10O010000O100O10O10O101N101O0O101N101O1N2O1N101O0O2O0O2O1O0O2O0O2O0O2O1O0O2O0O2OWc?"
+                    },
+                    "bbox": [
+                        [
+                            378,
+                            392
+                        ],
+                        [
+                            479,
+                            454
+                        ]
+                    ],
+                    "color": [
+                        216,
+                        125,
+                        206
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -4.5,
+                            1.0,
+                            1.0
+                        ],
+                        "rotation": [
+                            0.7071067811865474,
+                            0.0,
+                            -0.7071067811865477,
+                            0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            -90,
+                            0
+                        ]
+                    }
+                }
+            ],
+            "view_direction": [
+                230,
+                29
+            ],
+            "obj_rotation_quat": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "6": {
+            "bricks": [
+                {
+                    "brick_type": "3024",
+                    "canonical_position": [
+                        -2.5,
+                        2.0,
+                        1.5
+                    ],
+                    "canonical_rotation": [
+                        6.123233995736764e-17,
+                        -0.0,
+                        1.0,
+                        -0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "Vk^5`0`?1N2O0O2O1O1N2O1N2O001N2O1N2O1N101O1N2O1N2O0O2N2O1O1O0O10O10O010O10O10O010O11N2O1N2O0O2O1O1N2O1N101N2N2O1O1N2O001O1N2O1N2O001N2O1NdT`1"
+                    },
+                    "bbox": [
+                        [
+                            349,
+                            342
+                        ],
+                        [
+                            414,
+                            395
+                        ]
+                    ],
+                    "color": [
+                        6,
+                        182,
+                        204
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -2.5,
+                            2.0,
+                            1.5
+                        ],
+                        "rotation": [
+                            6.123233995736762e-17,
+                            -0.0,
+                            1.0,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            180,
+                            0,
+                            180
+                        ]
+                    }
+                },
+                {
+                    "brick_type": "3069b",
+                    "canonical_position": [
+                        4.0,
+                        4.0,
+                        -1.5
+                    ],
+                    "canonical_rotation": [
+                        6.123233995736764e-17,
+                        -0.0,
+                        1.0,
+                        -0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "hVf0>b?1O1N2O1N2O0O2O1O1N2O1N2O001N2O1N2O1O0O2O1N2O1N2O001N2O1N2O1O0O2O1N2O1O1N2O001000000000O10O10000000O10O1000O1O1O1N101N2O1N2O1O0O2O1N2O1O1N2O0O2O1O1N2O1N101N2O1O1N2O0O2O1O1N2O1N2O0O2O1OZXk5"
+                    },
+                    "bbox": [
+                        [
+                            44,
+                            201
+                        ],
+                        [
+                            136,
+                            274
+                        ]
+                    ],
+                    "color": [
+                        73,
+                        194,
+                        190
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            4.0,
+                            4.0,
+                            -1.5
+                        ],
+                        "rotation": [
+                            6.123233995736762e-17,
+                            -0.0,
+                            1.0,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            180,
+                            0,
+                            180
+                        ]
+                    }
+                },
+                {
+                    "brick_type": "3024",
+                    "canonical_position": [
+                        -1.5,
+                        2.0,
+                        1.5
+                    ],
+                    "canonical_rotation": [
+                        0.7071067811865474,
+                        0.0,
+                        -0.7071067811865477,
+                        0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "_ZQ5`0`?1O1N2O1N2O0O2O1O1N2O1N101O1N2O1N2O001N2N2O1N2O0O2O1OA?0O0100O0100O0100O01000O2O1N2O1N2O001N2O1N2O1N2N101O1O1N2O1O0O2O1N2O1O1N10[Un1"
+                    },
+                    "bbox": [
+                        [
+                            322,
+                            320
+                        ],
+                        [
+                            386,
+                            372
+                        ]
+                    ],
+                    "color": [
+                        165,
+                        207,
+                        165
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -1.5,
+                            2.0,
+                            1.5
+                        ],
+                        "rotation": [
+                            0.7071067811865474,
+                            0.0,
+                            -0.7071067811865477,
+                            0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            -90,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "canonical_state": {
+                        "cls": "CBrick",
+                        "bricks_pc": {
+                            "operations": {
+                                "0": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "2420",
+                                            "canonical_position": [
+                                                0.0,
+                                                0.0,
+                                                0.0
+                                            ],
+                                            "canonical_rotation": [
+                                                1.0,
+                                                0.0,
+                                                0.0,
+                                                0.0
+                                            ],
+                                            "op_type": 2
+                                        }
+                                    ]
+                                },
+                                "1": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "4032a",
+                                            "canonical_position": [
+                                                0.5,
+                                                1.0,
+                                                0.5
+                                            ],
+                                            "canonical_rotation": [
+                                                1.0,
+                                                0.0,
+                                                0.0,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                },
+                                "2": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "2420",
+                                            "canonical_position": [
+                                                0.0,
+                                                2.0,
+                                                1.0
+                                            ],
+                                            "canonical_rotation": [
+                                                0.7071067811865476,
+                                                0.0,
+                                                0.7071067811865475,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                },
+                                "3": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "3023",
+                                            "canonical_position": [
+                                                0.0,
+                                                3.0,
+                                                0.5
+                                            ],
+                                            "canonical_rotation": [
+                                                -0.7071067811865475,
+                                                0.0,
+                                                0.7071067811865476,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                },
+                                "4": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "3004",
+                                            "canonical_position": [
+                                                0.5,
+                                                4.0,
+                                                1.0
+                                            ],
+                                            "canonical_rotation": [
+                                                1.0,
+                                                0.0,
+                                                0.0,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "grid_size": [
+                                65,
+                                65,
+                                65
+                            ]
+                        },
+                        "position": [
+                            3.5,
+                            1.0,
+                            0.5
+                        ],
+                        "rotation": [
+                            6.123233995736766e-17,
+                            0.0,
+                            1.0,
+                            0.0
+                        ]
+                    },
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "aUg1_1a>1N2O1O1N101N2O1O1N2O0O2O1N2O1O1N1mBnMX<S2gCmMX<U2gCkMY<V2eCkMZ<W2eCiM[<X2cCiM\\<Y2cCgM^<X2aCiM`<W2_CiMb<W2]CjMa<k20001N101N101O0O2O1N101O0O2O101O00f0ZO00O1O00100J600O10O01O1N2O1N2O0O2O1O1O1O16I01O1O1O1O1O1O001O00000O2O100000O1000O100000O1000O10000N101O1N2O1N2O001N2O1NQ1PO1N2O2N1N2O1N2O=C1N2N2O1N2O0O2O1O1O1N2O001N2O1N2O1O0OWWW4"
+                    },
+                    "bbox": [
+                        [
+                            110,
+                            164
+                        ],
+                        [
+                            240,
+                            313
+                        ]
+                    ],
+                    "color": [
+                        [
+                            143,
+                            75,
+                            231
+                        ],
+                        [
+                            50,
+                            17,
+                            87
+                        ],
+                        [
+                            7,
+                            148,
+                            99
+                        ],
+                        [
+                            181,
+                            195,
+                            175
+                        ],
+                        [
+                            143,
+                            74,
+                            59
+                        ]
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            3.5,
+                            1.0,
+                            0.5
+                        ],
+                        "rotation": [
+                            6.123233995736764e-17,
+                            -0.0,
+                            1.0,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            180,
+                            0,
+                            180
+                        ]
+                    }
+                }
+            ],
+            "view_direction": [
+                235,
+                36
+            ],
+            "obj_rotation_quat": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "7": {
+            "bricks": [
+                {
+                    "brick_type": "4073",
+                    "canonical_position": [
+                        -0.5,
+                        2.0,
+                        -0.5
+                    ],
+                    "canonical_rotation": [
+                        0.7071067811865475,
+                        -0.0,
+                        0.7071067811865475,
+                        -0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "ija3<c?2M3N3M2N5L2M2O1N101N2N101N100O101O000O10000000000001I6O1N2O2N1O2O0O2N2O0O2O0O2O0O2N2O1O2N1NXef3"
+                    },
+                    "bbox": [
+                        [
+                            227,
+                            332
+                        ],
+                        [
+                            273,
+                            373
+                        ]
+                    ],
+                    "color": [
+                        255,
+                        63,
+                        217
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -0.5,
+                            2.0,
+                            -0.5
+                        ],
+                        "rotation": [
+                            0.7071067811865475,
+                            -0.0,
+                            0.7071067811865475,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            90,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "brick_type": "4073",
+                    "canonical_position": [
+                        -1.5,
+                        2.0,
+                        -0.5
+                    ],
+                    "canonical_rotation": [
+                        0.7071067811865475,
+                        -0.0,
+                        0.7071067811865475,
+                        -0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "`[o3:e?4K3N2N3M5L1N3M2O0O2O0O2O0O2N1000001N100000000000000001O0O10001O0O2O1N101N101N1N3N2K5N2M3N3LbTY3"
+                    },
+                    "bbox": [
+                        [
+                            254,
+                            355
+                        ],
+                        [
+                            300,
+                            396
+                        ]
+                    ],
+                    "color": [
+                        172,
+                        39,
+                        2
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -1.5,
+                            2.0,
+                            -0.5
+                        ],
+                        "rotation": [
+                            0.7071067811865475,
+                            -0.0,
+                            0.7071067811865475,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            90,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "brick_type": "3024",
+                    "canonical_position": [
+                        -0.5,
+                        2.0,
+                        1.5
+                    ],
+                    "canonical_rotation": [
+                        6.123233995736764e-17,
+                        -0.0,
+                        1.0,
+                        -0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "iic4`0_?101N2O1O1N2O1N101O1N2O1N2O0O2O1O1N2O1N101N2O1N2O1N10A?000O010O0100O0100O0101N2O001N2O1N2O1O0O2N2O1N2O1N2O001O1N2O1O1N101N2O1O1NRf[2"
+                    },
+                    "bbox": [
+                        [
+                            295,
+                            297
+                        ],
+                        [
+                            359,
+                            349
+                        ]
+                    ],
+                    "color": [
+                        134,
+                        192,
+                        74
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -0.5,
+                            2.0,
+                            1.5
+                        ],
+                        "rotation": [
+                            6.123233995736762e-17,
+                            -0.0,
+                            1.0,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            180,
+                            0,
+                            180
+                        ]
+                    }
+                },
+                {
+                    "brick_type": "3024",
+                    "canonical_position": [
+                        -3.5,
+                        2.0,
+                        1.5
+                    ],
+                    "canonical_rotation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "m[l5`0_?101O1N2O1N2O1N101O1N2O1N2O001N2O1N2O1O0O2N2O1N2O1N101OO10O01000O010O01000O02O1N101O1N2O1N2O001N2N2O1N2O1N101O1O1N2O1O0O2O1N2O1O1NmcR1"
+                    },
+                    "bbox": [
+                        [
+                            376,
+                            365
+                        ],
+                        [
+                            441,
+                            418
+                        ]
+                    ],
+                    "color": [
+                        47,
+                        137,
+                        192
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -3.5,
+                            2.0,
+                            1.5
+                        ],
+                        "rotation": [
+                            1.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ],
+            "view_direction": [
+                235,
+                36
+            ],
+            "obj_rotation_quat": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "8": {
+            "bricks": [
+                {
+                    "brick_type": "2420",
+                    "canonical_position": [
+                        -3.5,
+                        2.0,
+                        0.5
+                    ],
+                    "canonical_rotation": [
+                        0.7071067811865475,
+                        -0.0,
+                        0.7071067811865475,
+                        -0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "lle4a0_?001N2O1N2O1O0O2O1N2mNCaB>^=BbB?\\=CbB?]=BbB>]=DaB>^=CaB>^=C`B?^=BbB?]=BbB?\\=CbB>^=CaB>^=C`B?^=C`B?_=AaB`0]=S1O00A>10O0100O010O0010O1000O0100O01000O010O010O011N2N101O1O1N2O1O0O2O1O1N2O1N101O1O100000O1000O10000000O10N2O1O1N2O0O2O1O1N2N2O0O2O1N2O1O1O0O2O1O1N2O1N2O001N^Sf1"
+                    },
+                    "bbox": [
+                        [
+                            299,
+                            358
+                        ],
+                        [
+                            402,
+                            449
+                        ]
+                    ],
+                    "color": [
+                        69,
+                        56,
+                        235
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -3.5,
+                            2.0,
+                            0.5
+                        ],
+                        "rotation": [
+                            0.7071067811865475,
+                            -0.0,
+                            0.7071067811865475,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            90,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "brick_type": "3024",
+                    "canonical_position": [
+                        2.5,
+                        4.0,
+                        -1.5
+                    ],
+                    "canonical_rotation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "VXa1`0_?2O001N2O1N2O1N101O1N2O1N2O001N2O1N2O1O0O2N2O1N2O1N2O00O10O10O10O010O01000O02O1N2O001N2O1N2O1O0O2O1N2O1N2O001N2O1N2O1O0O2O1N2O1O1Ndg]5"
+                    },
+                    "bbox": [
+                        [
+                            98,
+                            246
+                        ],
+                        [
+                            163,
+                            299
+                        ]
+                    ],
+                    "color": [
+                        139,
+                        185,
+                        53
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            2.5,
+                            4.0,
+                            -1.5
+                        ],
+                        "rotation": [
+                            1.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "brick_type": "3024",
+                    "canonical_position": [
+                        -1.5,
+                        2.0,
+                        0.5
+                    ],
+                    "canonical_rotation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "oj]45k?000O2O0O2O1O0O2O0O2O0O2O1O1N2O1N3QAZO`>T1O1N2O0O2N2O1N2O1OA?0O0100O0100O0100O01000O2O1N2O001N2O1N2O1N101N2N2O1O1O0O2O1O1N2O1O0O2O1N2Okda2"
+                    },
+                    "bbox": [
+                        [
+                            283,
+                            336
+                        ],
+                        [
+                            347,
+                            388
+                        ]
+                    ],
+                    "color": [
+                        253,
+                        161,
+                        63
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -1.5,
+                            2.0,
+                            0.5
+                        ],
+                        "rotation": [
+                            1.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "brick_type": "3024",
+                    "canonical_position": [
+                        -4.5,
+                        2.0,
+                        -0.5
+                    ],
+                    "canonical_rotation": [
+                        0.7071067811865474,
+                        0.0,
+                        -0.7071067811865477,
+                        0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "c]S5`0`?1N2O1O1N101N2O1N2O1O1N101N2O1O1N2O0O2O1N2O1N2N101O1O0O10O10O10O10O010O010000O2O1N2O1O1N101N2O1O1N2O0O2O1N2O1O1N2O0O2O1O1N2O1N101OVbk1"
+                    },
+                    "bbox": [
+                        [
+                            326,
+                            420
+                        ],
+                        [
+                            391,
+                            472
+                        ]
+                    ],
+                    "color": [
+                        213,
+                        156,
+                        30
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -4.5,
+                            2.0,
+                            -0.5
+                        ],
+                        "rotation": [
+                            0.7071067811865474,
+                            0.0,
+                            -0.7071067811865477,
+                            0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            -90,
+                            0
+                        ]
+                    }
+                }
+            ],
+            "view_direction": [
+                235,
+                36
+            ],
+            "obj_rotation_quat": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "9": {
+            "bricks": [
+                {
+                    "brick_type": "3024",
+                    "canonical_position": [
+                        -0.5,
+                        2.0,
+                        0.5
+                    ],
+                    "canonical_rotation": [
+                        6.123233995736764e-17,
+                        -0.0,
+                        1.0,
+                        -0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "YZP44k?101N101O0O2O1N101O0O2O0O2O1O1N3N1N;F0O100O100O100O2OK5000O0100O0100O010O0100O2O1O1N2O1N101O1N2O1N2N101N2O1O1O1N101O1N2O1N2O1O0O2Oaen2"
+                    },
+                    "bbox": [
+                        [
+                            256,
+                            313
+                        ],
+                        [
+                            321,
+                            355
+                        ]
+                    ],
+                    "color": [
+                        62,
+                        20,
+                        67
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -0.5,
+                            2.0,
+                            0.5
+                        ],
+                        "rotation": [
+                            6.123233995736762e-17,
+                            -0.0,
+                            1.0,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            180,
+                            0,
+                            180
+                        ]
+                    }
+                },
+                {
+                    "brick_type": "4073",
+                    "canonical_position": [
+                        -2.5,
+                        2.0,
+                        -0.5
+                    ],
+                    "canonical_rotation": [
+                        0.7071067811865474,
+                        0.0,
+                        -0.7071067811865477,
+                        0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "Wl\\49e?5L3L3O1N6J2O1N2N2O001N2N100O2O0O10I70000O100O10000O100O101O0O2O0O2O0O2O001N2O0O2N101N3N1O1Ojck2"
+                    },
+                    "bbox": [
+                        [
+                            281,
+                            378
+                        ],
+                        [
+                            327,
+                            418
+                        ]
+                    ],
+                    "color": [
+                        83,
+                        146,
+                        202
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -2.5,
+                            2.0,
+                            -0.5
+                        ],
+                        "rotation": [
+                            0.7071067811865474,
+                            0.0,
+                            -0.7071067811865477,
+                            0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            -90,
+                            0
+                        ]
+                    }
+                }
+            ],
+            "view_direction": [
+                235,
+                36
+            ],
+            "obj_rotation_quat": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "10": {
+            "bricks": [
+                {
+                    "brick_type": "59900",
+                    "canonical_position": [
+                        -1.5,
+                        1.0,
+                        -1.5
+                    ],
+                    "canonical_rotation": [
+                        6.123233995736764e-17,
+                        -0.0,
+                        1.0,
+                        -0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "dlk38d?5K6J5K5K8H6I6K5H7O2M3O0O2N100O101O00000O1001O0000000000001N101O0O2O1N3N7H3M5K5K6J5H8J6K5K5G_c\\3"
+                    },
+                    "bbox": [
+                        [
+                            247,
+                            357
+                        ],
+                        [
+                            293,
+                            428
+                        ]
+                    ],
+                    "color": [
+                        113,
+                        11,
+                        211
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -1.5,
+                            1.0,
+                            -1.5
+                        ],
+                        "rotation": [
+                            6.123233995736762e-17,
+                            -0.0,
+                            1.0,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            180,
+                            0,
+                            180
+                        ]
+                    }
+                }
+            ],
+            "view_direction": [
+                217,
+                39
+            ],
+            "obj_rotation_quat": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "11": {
+            "bricks": [
+                {
+                    "brick_type": "3005",
+                    "canonical_position": [
+                        -2.5,
+                        1.0,
+                        -1.5
+                    ],
+                    "canonical_rotation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "ZlY4]1b>1O2N1O101N1O2N1O2N101N1O2N1O2N101N1O2N1O2N100O2N1O2N101O010O010O010O010O01N100O2N1O2N1O2O0O2N1O2N1O2O0O2N1O2N1O2N100O2N1O2N1O2O0OmSe2"
+                    },
+                    "bbox": [
+                        [
+                            275,
+                            371
+                        ],
+                        [
+                            340,
+                            455
+                        ]
+                    ],
+                    "color": [
+                        230,
+                        138,
+                        186
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -2.5,
+                            1.0,
+                            -1.5
+                        ],
+                        "rotation": [
+                            1.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "brick_type": "3023",
+                    "canonical_position": [
+                        -4.5,
+                        2.0,
+                        1.0
+                    ],
+                    "canonical_rotation": [
+                        0.7071067811865475,
+                        -0.0,
+                        0.7071067811865475,
+                        -0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "]l[61n?1O2N101N1O1O2N1O2N101N1O2N1O2N101N1O2N1O2O0O2N1O1O2N1O2O0O2N1O2N1O2O0O2N1O?A00010O00000000010O00000000010O000001O2N101N1O2N1O2N101N1O2N1O2N100O2N1O2N1O2O0O2N1O2N1O2O0O2N1O2N1O2N100O2N1ObT5"
+                    },
+                    "bbox": [
+                        [
+                            407,
+                            350
+                        ],
+                        [
+                            500,
+                            428
+                        ]
+                    ],
+                    "color": [
+                        173,
+                        43,
+                        113
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -4.5,
+                            2.0,
+                            1.0
+                        ],
+                        "rotation": [
+                            0.7071067811865475,
+                            -0.0,
+                            0.7071067811865475,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            90,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "brick_type": "3005",
+                    "canonical_position": [
+                        -4.5,
+                        1.0,
+                        -1.5
+                    ],
+                    "canonical_rotation": [
+                        0.7071067811865475,
+                        -0.0,
+                        0.7071067811865475,
+                        -0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "^]_5\\1c>2N1O2N101N1O1O2N1O2O0O2N1O2N1O2O0O2N1O2N1O2O0O2N1O2N1O110O010O010O010O010OO2N100O2N1O2N1O2O0O2N1O2N1O2O0O2N1O2N1O2O0O2N1O1O2N101Nib_1"
+                    },
+                    "bbox": [
+                        [
+                            350,
+                            406
+                        ],
+                        [
+                            415,
+                            491
+                        ]
+                    ],
+                    "color": [
+                        149,
+                        59,
+                        1
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -4.5,
+                            1.0,
+                            -1.5
+                        ],
+                        "rotation": [
+                            0.7071067811865475,
+                            -0.0,
+                            0.7071067811865475,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            90,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "canonical_state": {
+                        "cls": "CBrick",
+                        "bricks_pc": {
+                            "operations": {
+                                "0": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "2420",
+                                            "canonical_position": [
+                                                0.0,
+                                                0.0,
+                                                0.0
+                                            ],
+                                            "canonical_rotation": [
+                                                1.0,
+                                                0.0,
+                                                0.0,
+                                                0.0
+                                            ],
+                                            "op_type": 2
+                                        }
+                                    ]
+                                },
+                                "1": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "4032a",
+                                            "canonical_position": [
+                                                0.5,
+                                                1.0,
+                                                0.5
+                                            ],
+                                            "canonical_rotation": [
+                                                1.0,
+                                                0.0,
+                                                0.0,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                },
+                                "2": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "2420",
+                                            "canonical_position": [
+                                                0.0,
+                                                2.0,
+                                                1.0
+                                            ],
+                                            "canonical_rotation": [
+                                                0.7071067811865476,
+                                                0.0,
+                                                0.7071067811865475,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                },
+                                "3": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "3023",
+                                            "canonical_position": [
+                                                0.0,
+                                                3.0,
+                                                0.5
+                                            ],
+                                            "canonical_rotation": [
+                                                -0.7071067811865475,
+                                                0.0,
+                                                0.7071067811865476,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                },
+                                "4": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "3004",
+                                            "canonical_position": [
+                                                0.5,
+                                                4.0,
+                                                1.0
+                                            ],
+                                            "canonical_rotation": [
+                                                1.0,
+                                                0.0,
+                                                0.0,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "grid_size": [
+                                65,
+                                65,
+                                65
+                            ]
+                        },
+                        "position": [
+                            -1.5,
+                            3.0,
+                            -0.5
+                        ],
+                        "rotation": [
+                            1.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ]
+                    },
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "^Zb3`0`?0O2N1O2N1O2O0O2N1O2N1O2O0O2N1O1O2N1F;L3O2N1O2N1N3N1O2dM[OkDU1T;mNjDT1V;lNiDS1X;oNfDR1Y;oNfDQ1Z;QOeDn0[;SOdDn0[;TOcDl0^;TOaDm0^;UO`Dl0_;UO`Dl0_;k1O00101N1O1O1O1O1O101N1O2N1O2N2O2M8I2O3L1O010O010O01N1O2N1O2N101N1O2N1O2O0010O0010O010O010O010O0O2N1O2O0O2N1O2N1O2O0O1O2N1O2N101N1TN[EmMV;Q2kDnMV;R2kDmMV;Q2kDnMV;Q2lDmMV;Q2kDnMV;Q2lDmMV;Q2kDnMV;R2kDmMV;Q2kDnMV;Q2^1N1O1O2O0O2N1O2N1O2O0O2N1O2N1O2O0Ofh[2"
+                    },
+                    "bbox": [
+                        [
+                            228,
+                            200
+                        ],
+                        [
+                            359,
+                            379
+                        ]
+                    ],
+                    "color": [
+                        [
+                            131,
+                            174,
+                            156
+                        ],
+                        [
+                            54,
+                            53,
+                            123
+                        ],
+                        [
+                            200,
+                            43,
+                            136
+                        ],
+                        [
+                            24,
+                            43,
+                            31
+                        ],
+                        [
+                            122,
+                            146,
+                            205
+                        ]
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -1.5,
+                            3.0,
+                            -0.5
+                        ],
+                        "rotation": [
+                            1.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "canonical_state": {
+                        "cls": "CBrick",
+                        "bricks_pc": {
+                            "operations": {
+                                "0": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "2420",
+                                            "canonical_position": [
+                                                0.0,
+                                                0.0,
+                                                0.0
+                                            ],
+                                            "canonical_rotation": [
+                                                1.0,
+                                                0.0,
+                                                0.0,
+                                                0.0
+                                            ],
+                                            "op_type": 2
+                                        }
+                                    ]
+                                },
+                                "1": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "4032a",
+                                            "canonical_position": [
+                                                0.5,
+                                                1.0,
+                                                0.5
+                                            ],
+                                            "canonical_rotation": [
+                                                1.0,
+                                                0.0,
+                                                0.0,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                },
+                                "2": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "2420",
+                                            "canonical_position": [
+                                                0.0,
+                                                2.0,
+                                                1.0
+                                            ],
+                                            "canonical_rotation": [
+                                                0.7071067811865476,
+                                                0.0,
+                                                0.7071067811865475,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                },
+                                "3": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "3023",
+                                            "canonical_position": [
+                                                0.0,
+                                                3.0,
+                                                0.5
+                                            ],
+                                            "canonical_rotation": [
+                                                -0.7071067811865475,
+                                                0.0,
+                                                0.7071067811865476,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                },
+                                "4": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "3004",
+                                            "canonical_position": [
+                                                0.5,
+                                                4.0,
+                                                1.0
+                                            ],
+                                            "canonical_rotation": [
+                                                1.0,
+                                                0.0,
+                                                0.0,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "grid_size": [
+                                65,
+                                65,
+                                65
+                            ]
+                        },
+                        "position": [
+                            -2.5,
+                            3.0,
+                            0.5
+                        ],
+                        "rotation": [
+                            -0.7071067811865475,
+                            0.0,
+                            0.7071067811865476,
+                            0.0
+                        ]
+                    },
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "^YV5o0=Af=`0YBAg=`0XBAf=`0YBBe=`0YBAf=`0YBAf=a0XBAf=`0YBAg=`0XBAf=`0YBAf=^1N1O2N101N1O2N1O2N101N1O2N1O1O2O0O2O001O010O010O010O0J7N1O2N1O2O0O1O2N1O2N101N1O2N1O2N1O2O0O2N1O2N1O2O0O1O2N1O2N101N1O2N1O2N101N1O1O000001O01O00000001O01O00000001O01O01O1O2N1O2O0O2N1O2N1A?N3N1O2N1N3N1O2K4G:N1O2N1O2O0O2N1O2QOhBSOY=l0iBROY=l0hBSOY=l0iBSOW=m0iBROY=l0iBROX=m0iBROY=l0hBSOY=l0iBROY=l0hBTOX=l0iBROaUh0"
+                    },
+                    "bbox": [
+                        [
+                            332,
+                            230
+                        ],
+                        [
+                            463,
+                            396
+                        ]
+                    ],
+                    "color": [
+                        [
+                            46,
+                            199,
+                            78
+                        ],
+                        [
+                            205,
+                            18,
+                            160
+                        ],
+                        [
+                            94,
+                            65,
+                            131
+                        ],
+                        [
+                            255,
+                            56,
+                            110
+                        ],
+                        [
+                            201,
+                            1,
+                            214
+                        ]
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -2.5,
+                            3.0,
+                            0.5
+                        ],
+                        "rotation": [
+                            0.7071067811865474,
+                            0.0,
+                            -0.7071067811865477,
+                            0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            -90,
+                            0
+                        ]
+                    }
+                }
+            ],
+            "view_direction": [
+                217,
+                39
+            ],
+            "obj_rotation_quat": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "12": {
+            "bricks": [
+                {
+                    "brick_type": "2877",
+                    "canonical_position": [
+                        1.0,
+                        1.0,
+                        -1.5
+                    ],
+                    "canonical_rotation": [
+                        6.123233995736764e-17,
+                        -0.0,
+                        1.0,
+                        -0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "VZn116080H0j>2TA10O00010Ob>3[A01O01O01Ob>X1N101N1O2N1O2N101N1O2N1O1O2O0O2N1O2N1O2O0O2N101N101O001O0012M0001O0010O01O0010O10O010O0013L01O001O001O02N2OO001O0O2O0013L01O001O001O02O0O01O000010OO20O0O2O1N2N1O1O3M3N0O1O1O1O1O103L2N1O001O1O101NcU_4"
+                    },
+                    "bbox": [
+                        [
+                            124,
+                            301
+                        ],
+                        [
+                            224,
+                            399
+                        ]
+                    ],
+                    "color": [
+                        71,
+                        69,
+                        112
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            1.0,
+                            1.0,
+                            -1.5
+                        ],
+                        "rotation": [
+                            6.123233995736762e-17,
+                            -0.0,
+                            1.0,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            180,
+                            0,
+                            180
+                        ]
+                    }
+                }
+            ],
+            "view_direction": [
+                217,
+                39
+            ],
+            "obj_rotation_quat": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "13": {
+            "bricks": [
+                {
+                    "brick_type": "59900",
+                    "canonical_position": [
+                        -0.5,
+                        1.0,
+                        -1.5
+                    ],
+                    "canonical_rotation": [
+                        6.123233995736764e-17,
+                        -0.0,
+                        1.0,
+                        -0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "VlX33g?8J6J5K5K7H7J6I6M2I8N2N1O2O0O100O2O000000000000000000000001O0O2O001N2O1N3M8F7H8H8H8H8H9GYdP4"
+                    },
+                    "bbox": [
+                        [
+                            209,
+                            340
+                        ],
+                        [
+                            253,
+                            410
+                        ]
+                    ],
+                    "color": [
+                        232,
+                        229,
+                        166
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -0.5,
+                            1.0,
+                            -1.5
+                        ],
+                        "rotation": [
+                            6.123233995736762e-17,
+                            -0.0,
+                            1.0,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            180,
+                            0,
+                            180
+                        ]
+                    }
+                }
+            ],
+            "view_direction": [
+                217,
+                39
+            ],
+            "obj_rotation_quat": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "14": {
+            "bricks": [
+                {
+                    "brick_type": "3062b",
+                    "canonical_position": [
+                        -3.5,
+                        1.0,
+                        -1.5
+                    ],
+                    "canonical_rotation": [
+                        6.123233995736764e-17,
+                        -0.0,
+                        1.0,
+                        -0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "h\\Q5W1f>5L3N3M2N4L3N1N2O1N2O0O2O0O101N10001O0O1000000000000001lNS1O1O2N1O2O0O2N1O1O2N2O0O2N2N1O3M3N2MZSW2"
+                    },
+                    "bbox": [
+                        [
+                            322,
+                            393
+                        ],
+                        [
+                            368,
+                            464
+                        ]
+                    ],
+                    "color": [
+                        48,
+                        175,
+                        98
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -3.5,
+                            1.0,
+                            -1.5
+                        ],
+                        "rotation": [
+                            6.123233995736762e-17,
+                            -0.0,
+                            1.0,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            180,
+                            0,
+                            180
+                        ]
+                    }
+                }
+            ],
+            "view_direction": [
+                217,
+                39
+            ],
+            "obj_rotation_quat": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "15": {
+            "bricks": [
+                {
+                    "brick_type": "4286",
+                    "canonical_position": [
+                        3.5,
+                        5.0,
+                        -1.5
+                    ],
+                    "canonical_rotation": [
+                        0.7071067811865474,
+                        0.0,
+                        -0.7071067811865477,
+                        0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "cf5\\1d>010O010O010O010O010O010O01O01O010O010O010O010O010O010O010O01O010O01O010O010O010O010O010O010O010O01O010O01O010O010O010O010O010O010O010O010O010O00010O010O010O010O010O010O010O010O010O01O01O010O010O010O010O010O010O010O01O010O01O0O01O01O00000001O2O1N2N2N2N2N2O1N2N2N1O2N2O1N2N2N2N2N2O1N\\Wc5"
+                    },
+                    "bbox": [
+                        [
+                            11,
+                            211
+                        ],
+                        [
+                            152,
+                            307
+                        ]
+                    ],
+                    "color": [
+                        35,
+                        97,
+                        27
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            3.5,
+                            5.0,
+                            -1.5
+                        ],
+                        "rotation": [
+                            0.7071067811865474,
+                            0.0,
+                            -0.7071067811865477,
+                            0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            -90,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "brick_type": "4286",
+                    "canonical_position": [
+                        3.5,
+                        8.0,
+                        -1.5
+                    ],
+                    "canonical_rotation": [
+                        0.7071067811865474,
+                        0.0,
+                        -0.7071067811865477,
+                        0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "We5\\1d>010O010O010O010O010O010O010O01O01O010O010O010O010O010O010O010O010O01O01O010O010O010O010O010O010O010O010O01O01O010O010O010O010O010O010O010O010O01O01O010O010O010O010O010O010O010O010O010O00010O010O010O010O010O010O010O010O010O000O010O000000000101N2N2N2N2N2O1N2N2N2N1O2O1N2N2N2N2N2O1N2NhXc5"
+                    },
+                    "bbox": [
+                        [
+                            11,
+                            167
+                        ],
+                        [
+                            152,
+                            263
+                        ]
+                    ],
+                    "color": [
+                        35,
+                        97,
+                        27
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            3.5,
+                            8.0,
+                            -1.5
+                        ],
+                        "rotation": [
+                            0.7071067811865474,
+                            0.0,
+                            -0.7071067811865477,
+                            0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            -90,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "brick_type": "4286",
+                    "canonical_position": [
+                        3.5,
+                        11.0,
+                        -1.5
+                    ],
+                    "canonical_rotation": [
+                        0.7071067811865474,
+                        0.0,
+                        -0.7071067811865477,
+                        0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "kc5\\1c>1O2N1O2O0O2N1O2N1O2O0O2N1O2N1O2O0O1O2N1O2N101N1O2N1O2N110O0010O010O010O0010O010O010O010O010O010O0010O010O010O0010O010O010O010O010O0100O100O100O100O1O100O100O100O010O100O100O100O100O100O1O100O100O100O100O100O100O10O0100O100O1O1N2O1N2N2N2N2N2O1N2N2N2N2N2O1N2N2N2N2N101N2N2N2N2N2O1N2NTZc5"
+                    },
+                    "bbox": [
+                        [
+                            11,
+                            99
+                        ],
+                        [
+                            152,
+                            219
+                        ]
+                    ],
+                    "color": [
+                        35,
+                        97,
+                        27
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            3.5,
+                            11.0,
+                            -1.5
+                        ],
+                        "rotation": [
+                            0.7071067811865474,
+                            0.0,
+                            -0.7071067811865477,
+                            0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            -90,
+                            0
+                        ]
+                    }
+                }
+            ],
+            "view_direction": [
+                217,
+                39
+            ],
+            "obj_rotation_quat": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "16": {
+            "bricks": [
+                {
+                    "canonical_state": {
+                        "cls": "CBrick",
+                        "bricks_pc": {
+                            "operations": {
+                                "0": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "3005",
+                                            "canonical_position": [
+                                                0.0,
+                                                0.0,
+                                                0.0
+                                            ],
+                                            "canonical_rotation": [
+                                                1.0,
+                                                0.0,
+                                                0.0,
+                                                0.0
+                                            ],
+                                            "op_type": 2
+                                        }
+                                    ]
+                                },
+                                "1": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "3062b",
+                                            "canonical_position": [
+                                                0.0,
+                                                3.0,
+                                                0.0
+                                            ],
+                                            "canonical_rotation": [
+                                                6.123233995736766e-17,
+                                                0.0,
+                                                1.0,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                },
+                                "2": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "3005",
+                                            "canonical_position": [
+                                                0.0,
+                                                6.0,
+                                                0.0
+                                            ],
+                                            "canonical_rotation": [
+                                                -0.7071067811865475,
+                                                0.0,
+                                                0.7071067811865476,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                },
+                                "3": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "2420",
+                                            "canonical_position": [
+                                                0.0,
+                                                9.0,
+                                                0.0
+                                            ],
+                                            "canonical_rotation": [
+                                                6.123233995736766e-17,
+                                                0.0,
+                                                1.0,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "grid_size": [
+                                65,
+                                65,
+                                65
+                            ]
+                        },
+                        "position": [
+                            -2.5,
+                            3.0,
+                            -0.5
+                        ],
+                        "rotation": [
+                            0.7071067811865476,
+                            0.0,
+                            0.7071067811865475,
+                            0.0
+                        ]
+                    },
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "^fa4U2d1mNa9T1]FmNb9T1^FlNb9T1^FlNb9U1\\FlNc9U1]FkNc9V1[FkNd9V1\\FjNd9V1[FlNc9V1\\FjNd9\\2VEdMj:^2SEdMk:^2TEbMl:j3N2O000O010O1M210O001000O10O0100O10000O100O11N101N100O2O001N100O2O0O2O000O2O0N3M20cNjEPMU:Q3kEPMT:n2nERMQ:h1WGXNh8g1YGYNg8g1YGYNf8h1[GXNd8g1]GYNc8g1^GXNb8g1_GZN`8f1`GZN`8e1bG[N]8e1cG[N]8l0h30000O101N10000O2O0O2O0O3N2N0O2O0O101O0O2O0TOgA0Z>OgA1Z>NfA1[>NgA1Z>NfA2Z>NgA0Z>OgA1Z>NfA1[>NgA1Z>NfA1[>NgA1T?0Uik1"
+                    },
+                    "bbox": [
+                        [
+                            291,
+                            178
+                        ],
+                        [
+                            391,
+                            369
+                        ]
+                    ],
+                    "color": [
+                        [
+                            181,
+                            200,
+                            154
+                        ],
+                        [
+                            215,
+                            158,
+                            117
+                        ],
+                        [
+                            18,
+                            240,
+                            202
+                        ],
+                        [
+                            57,
+                            178,
+                            233
+                        ]
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -2.5,
+                            3.0,
+                            -0.5
+                        ],
+                        "rotation": [
+                            0.7071067811865475,
+                            -0.0,
+                            0.7071067811865475,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            90,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "brick_type": "3070b",
+                    "canonical_position": [
+                        -3.5,
+                        4.0,
+                        -1.5
+                    ],
+                    "canonical_rotation": [
+                        6.123233995736764e-17,
+                        -0.0,
+                        1.0,
+                        -0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "ckb4`0_?10002M100O2O0O2O000O2O0O2O0O101O0O2O0O101O0O2O0O101N101O0O101N11O001O0O101N101N10001N101N10001N101N100O2N1O2O0O101N10001O001N100O_T\\2"
+                    },
+                    "bbox": [
+                        [
+                            293,
+                            357
+                        ],
+                        [
+                            358,
+                            399
+                        ]
+                    ],
+                    "color": [
+                        114,
+                        25,
+                        252
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -3.5,
+                            4.0,
+                            -1.5
+                        ],
+                        "rotation": [
+                            6.123233995736762e-17,
+                            -0.0,
+                            1.0,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            180,
+                            0,
+                            180
+                        ]
+                    }
+                },
+                {
+                    "brick_type": "3623",
+                    "canonical_position": [
+                        0.5,
+                        4.0,
+                        -1.5
+                    ],
+                    "canonical_rotation": [
+                        6.123233995736764e-17,
+                        -0.0,
+                        1.0,
+                        -0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "`im1b0^?001N101N10001N101N100O2O001N100O2O0N3M200O2O0O2O00001N10001O001O00001O001O01O01O0010O00100O2O0O0010O010O00010O01O01O010O01O01O001O000010O01O00001O010O00010O0102M0010O01O01O010O01O01O010O00010O010O00001O00O100O100O2O000O2O0O2O1N3N1O0O101N101M2N201N101O0O101O001N1000fUo3"
+                    },
+                    "bbox": [
+                        [
+                            123,
+                            290
+                        ],
+                        [
+                            256,
+                            361
+                        ]
+                    ],
+                    "color": [
+                        167,
+                        178,
+                        141
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            0.5,
+                            4.0,
+                            -1.5
+                        ],
+                        "rotation": [
+                            6.123233995736762e-17,
+                            -0.0,
+                            1.0,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            180,
+                            0,
+                            180
+                        ]
+                    }
+                }
+            ],
+            "view_direction": [
+                224,
+                24
+            ],
+            "obj_rotation_quat": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "17": {
+            "bricks": [
+                {
+                    "brick_type": "3070b",
+                    "canonical_position": [
+                        -4.5,
+                        4.0,
+                        -1.5
+                    ],
+                    "canonical_rotation": [
+                        0.7071067811865475,
+                        -0.0,
+                        0.7071067811865475,
+                        -0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "Q\\S5?`?100O2O1N101O0O2O0O101N101O0O101N101O0O101N101N10001N100O2O0O2O000010N100O2O001N100O2O0O2O000O2O0O2O000O2O0O101N101O0O101N101N1O101NQTk1"
+                    },
+                    "bbox": [
+                        [
+                            326,
+                            371
+                        ],
+                        [
+                            392,
+                            413
+                        ]
+                    ],
+                    "color": [
+                        2,
+                        108,
+                        199
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -4.5,
+                            4.0,
+                            -1.5
+                        ],
+                        "rotation": [
+                            0.7071067811865475,
+                            -0.0,
+                            0.7071067811865475,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            90,
+                            0
+                        ]
+                    }
+                }
+            ],
+            "view_direction": [
+                224,
+                24
+            ],
+            "obj_rotation_quat": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "18": {
+            "bricks": [
+                {
+                    "brick_type": "4073",
+                    "canonical_position": [
+                        4.5,
+                        14.0,
+                        -1.5
+                    ],
+                    "canonical_rotation": [
+                        0.7071067811865475,
+                        -0.0,
+                        0.7071067811865475,
+                        -0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "kb?9e?4M2O0O2N8I2M101N1M4O0O101N10001N10000000000000000000000001O0O10001O1N102N2M1O2O0O2L3K6N2N3LWmh6"
+                    },
+                    "bbox": [
+                        [
+                            31,
+                            78
+                        ],
+                        [
+                            77,
+                            116
+                        ]
+                    ],
+                    "color": [
+                        124,
+                        193,
+                        251
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            4.5,
+                            14.0,
+                            -1.5
+                        ],
+                        "rotation": [
+                            0.7071067811865475,
+                            -0.0,
+                            0.7071067811865475,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            90,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "brick_type": "3794a",
+                    "canonical_position": [
+                        -2.0,
+                        4.0,
+                        -1.5
+                    ],
+                    "canonical_rotation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "hj`3b0^?1N10001N101N100O2O000O2O0O2O000O2O0O2O0O101O0O2O0O101N101O0O101O010O00010O01O01O010O01O01O010O00001O001O00001O010O00010O01O101N10O01O0_OkAWOU>h0lAXOU>g0b001N100O2O0O101O0O2O0O101N101O0O101N101O0O101N101N10001N10kTm2"
+                    },
+                    "bbox": [
+                        [
+                            225,
+                            331
+                        ],
+                        [
+                            324,
+                            387
+                        ]
+                    ],
+                    "color": [
+                        232,
+                        195,
+                        213
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -2.0,
+                            4.0,
+                            -1.5
+                        ],
+                        "rotation": [
+                            1.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "rotation_euler": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                {
+                    "canonical_state": {
+                        "cls": "CBrick",
+                        "bricks_pc": {
+                            "operations": {
+                                "0": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "3005",
+                                            "canonical_position": [
+                                                0.0,
+                                                0.0,
+                                                0.0
+                                            ],
+                                            "canonical_rotation": [
+                                                1.0,
+                                                0.0,
+                                                0.0,
+                                                0.0
+                                            ],
+                                            "op_type": 2
+                                        }
+                                    ]
+                                },
+                                "1": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "3062b",
+                                            "canonical_position": [
+                                                0.0,
+                                                3.0,
+                                                0.0
+                                            ],
+                                            "canonical_rotation": [
+                                                6.123233995736766e-17,
+                                                0.0,
+                                                1.0,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                },
+                                "2": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "3005",
+                                            "canonical_position": [
+                                                0.0,
+                                                6.0,
+                                                0.0
+                                            ],
+                                            "canonical_rotation": [
+                                                -0.7071067811865475,
+                                                0.0,
+                                                0.7071067811865476,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                },
+                                "3": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "2420",
+                                            "canonical_position": [
+                                                0.0,
+                                                9.0,
+                                                0.0
+                                            ],
+                                            "canonical_rotation": [
+                                                6.123233995736766e-17,
+                                                0.0,
+                                                1.0,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "grid_size": [
+                                65,
+                                65,
+                                65
+                            ]
+                        },
+                        "position": [
+                            -4.5,
+                            3.0,
+                            0.5
+                        ],
+                        "rotation": [
+                            6.123233995736766e-17,
+                            0.0,
+                            1.0,
+                            0.0
+                        ]
+                    },
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "\\fd51o?000O2O0O100O2O001N102M3N001N1N2O2N1O2O000O2O001O000O2O001O00U2`B[N[8f1cGbNV8^1jGbNW8]1hGdNX8]1gGcNY8]1fGdNZ8]1eGcN[8]1eGcN\\8\\1cGfN\\8[1cGeN^8`2[FaMe9a2YF`Mg9`2WFaMk9Z401O0O1O010O01O01O010O01O01O010O00010O001OO0100O010O01000O010O0100O0100O010O0O2OQN\\FcMd9^2\\FbMd9]2^FbMa9\\2bFcM_9W1hGhNX8X1hGgNX8Z1hGfNX8Y1jGfNV8Z1jGeNW8Z1kGeNU8[1kGdNV8\\1jGdNV8[1lGcNU8]1kGcNU8Ik4O100O100O2O000O2O0O2O1O2M2O0O2O0O101O0O2O0O101N101O0O101N101OcY:"
+                    },
+                    "bbox": [
+                        [
+                            361,
+                            191
+                        ],
+                        [
+                            490,
+                            404
+                        ]
+                    ],
+                    "color": [
+                        [
+                            196,
+                            127,
+                            53
+                        ],
+                        [
+                            167,
+                            121,
+                            59
+                        ],
+                        [
+                            120,
+                            156,
+                            99
+                        ],
+                        [
+                            201,
+                            111,
+                            79
+                        ]
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            -4.5,
+                            3.0,
+                            0.5
+                        ],
+                        "rotation": [
+                            6.123233995736764e-17,
+                            -0.0,
+                            1.0,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            180,
+                            0,
+                            180
+                        ]
+                    }
+                },
+                {
+                    "canonical_state": {
+                        "cls": "CBrick",
+                        "bricks_pc": {
+                            "operations": {
+                                "0": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "3062b",
+                                            "canonical_position": [
+                                                0.0,
+                                                0.0,
+                                                0.0
+                                            ],
+                                            "canonical_rotation": [
+                                                1.0,
+                                                0.0,
+                                                0.0,
+                                                0.0
+                                            ],
+                                            "op_type": 2
+                                        }
+                                    ]
+                                },
+                                "1": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "59900",
+                                            "canonical_position": [
+                                                0.0,
+                                                3.0,
+                                                0.0
+                                            ],
+                                            "canonical_rotation": [
+                                                1.0,
+                                                0.0,
+                                                0.0,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                },
+                                "2": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "3024",
+                                            "canonical_position": [
+                                                0.0,
+                                                6.0,
+                                                0.0
+                                            ],
+                                            "canonical_rotation": [
+                                                -0.7071067811865475,
+                                                0.0,
+                                                0.7071067811865476,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                },
+                                "3": {
+                                    "bricks": [
+                                        {
+                                            "brick_type": "3003",
+                                            "canonical_position": [
+                                                0.0,
+                                                7.0,
+                                                0.0
+                                            ],
+                                            "canonical_rotation": [
+                                                1.0,
+                                                0.0,
+                                                0.0,
+                                                0.0
+                                            ],
+                                            "op_type": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "grid_size": [
+                                65,
+                                65,
+                                65
+                            ]
+                        },
+                        "position": [
+                            1.5,
+                            1.0,
+                            0.5
+                        ],
+                        "rotation": [
+                            6.123233995736766e-17,
+                            0.0,
+                            1.0,
+                            0.0
+                        ]
+                    },
+                    "op_type": 0,
+                    "mask": {
+                        "size": [
+                            512,
+                            512
+                        ],
+                        "counts": "^e]259h0[>`0O000O2O0O101N101O9F100O2O0O2O000O2N1N3N100O2O0O2O00001O001N10001O4L001N101N10001N101mCWMWO9P;a2dE]MWO5U;^2`EbMYO1V;_2[EfM^OLV;^2WEkMBHW;^2QEbNm:_1nDiNo:T3O2N1N3N100O2O001N10001O00001O001O00000000000001O00010O1O012M10O1O2OeM^EWOa:h0eESO\\:l0iEkMA;f:j1nEfM]O`0d:i1UFaMXO5U;Y2hE[MWO8S;\\2l101N101O0O101N100O1M3ZOf00000O101N10000O2O0O2O1N4M000O2O0O101N1N3N1O101N101O000O2O001O00cZ_3"
+                    },
+                    "bbox": [
+                        [
+                            155,
+                            146
+                        ],
+                        [
+                            288,
+                            324
+                        ]
+                    ],
+                    "color": [
+                        [
+                            248,
+                            193,
+                            37
+                        ],
+                        [
+                            244,
+                            72,
+                            79
+                        ],
+                        [
+                            219,
+                            232,
+                            21
+                        ],
+                        [
+                            90,
+                            5,
+                            201
+                        ]
+                    ],
+                    "brick_transform": {
+                        "position": [
+                            1.5,
+                            1.0,
+                            0.5
+                        ],
+                        "rotation": [
+                            6.123233995736764e-17,
+                            -0.0,
+                            1.0,
+                            -0.0
+                        ],
+                        "rotation_euler": [
+                            180,
+                            0,
+                            180
+                        ]
+                    }
+                }
+            ],
+            "view_direction": [
+                224,
+                24
+            ],
+            "obj_rotation_quat": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    "grid_size": [
+        65,
+        65,
+        65
+    ],
+    "stats": {
+        "step_count_per_vis_test": [
+            3,
+            6,
+            4,
+            5,
+            1
+        ],
+        "element_count_per_vis_test": [
+            8,
+            12,
+            14,
+            12,
+            1
+        ],
+        "brick_count_per_vis_test": [
+            8,
+            10,
+            14,
+            12,
+            1
+        ],
+        "parent_brick_clss": [
+            [
+                [
+                    "Brick",
+                    0,
+                    0
+                ]
+            ],
+            [
+                [
+                    "Brick",
+                    11,
+                    0
+                ]
+            ],
+            [
+                [
+                    "CBrick",
+                    32,
+                    0
+                ],
+                [
+                    "Brick",
+                    4,
+                    0
+                ],
+                [
+                    "CBrick",
+                    31,
+                    0
+                ],
+                [
+                    "Brick",
+                    16,
+                    0
+                ]
+            ],
+            [
+                [
+                    "Brick",
+                    5,
+                    0
+                ],
+                [
+                    "Brick",
+                    10,
+                    0
+                ],
+                [
+                    "Brick",
+                    8,
+                    0
+                ]
+            ],
+            [
+                [
+                    "Brick",
+                    14,
+                    0
+                ],
+                [
+                    "Brick",
+                    13,
+                    0
+                ]
+            ],
+            [
+                [
+                    "Brick",
+                    15,
+                    0
+                ],
+                [
+                    "Brick",
+                    12,
+                    0
+                ]
+            ],
+            [
+                [
+                    "Brick",
+                    19,
+                    0
+                ],
+                [
+                    "Brick",
+                    39,
+                    0
+                ],
+                [
+                    "Brick",
+                    18,
+                    0
+                ],
+                [
+                    "CBrick",
+                    29,
+                    0
+                ]
+            ],
+            [
+                [
+                    "Brick",
+                    23,
+                    0
+                ],
+                [
+                    "Brick",
+                    24,
+                    0
+                ],
+                [
+                    "Brick",
+                    20,
+                    0
+                ],
+                [
+                    "Brick",
+                    22,
+                    0
+                ]
+            ],
+            [
+                [
+                    "Brick",
+                    17,
+                    0
+                ],
+                [
+                    "Brick",
+                    41,
+                    0
+                ],
+                [
+                    "Brick",
+                    28,
+                    0
+                ],
+                [
+                    "Brick",
+                    21,
+                    0
+                ]
+            ],
+            [
+                [
+                    "Brick",
+                    26,
+                    0
+                ],
+                [
+                    "Brick",
+                    27,
+                    0
+                ]
+            ],
+            [
+                [
+                    "Brick",
+                    1,
+                    0
+                ]
+            ],
+            [
+                [
+                    "Brick",
+                    7,
+                    0
+                ],
+                [
+                    "Brick",
+                    25,
+                    0
+                ],
+                [
+                    "Brick",
+                    2,
+                    0
+                ],
+                [
+                    "CBrick",
+                    34,
+                    0
+                ],
+                [
+                    "CBrick",
+                    35,
+                    0
+                ]
+            ],
+            [
+                [
+                    "Brick",
+                    3,
+                    0
+                ]
+            ],
+            [
+                [
+                    "Brick",
+                    6,
+                    0
+                ]
+            ],
+            [
+                [
+                    "Brick",
+                    9,
+                    0
+                ]
+            ],
+            [
+                [
+                    "VBrick",
+                    43,
+                    0
+                ],
+                [
+                    "VBrick",
+                    43,
+                    1
+                ],
+                [
+                    "VBrick",
+                    43,
+                    2
+                ]
+            ],
+            [
+                [
+                    "CBrick",
+                    33,
+                    0
+                ],
+                [
+                    "Brick",
+                    42,
+                    0
+                ],
+                [
+                    "Brick",
+                    37,
+                    0
+                ]
+            ],
+            [
+                [
+                    "Brick",
+                    40,
+                    0
+                ]
+            ],
+            [
+                [
+                    "Brick",
+                    44,
+                    0
+                ],
+                [
+                    "Brick",
+                    38,
+                    0
+                ],
+                [
+                    "CBrick",
+                    36,
+                    0
+                ],
+                [
+                    "CBrick",
+                    30,
+                    0
+                ]
+            ]
+        ]
+    },
+    "obj_scale": 3.835923433303833,
+    "obj_center": [
+        0.0,
+        62.0,
+        0.0002613067626953125
+    ]
+}
